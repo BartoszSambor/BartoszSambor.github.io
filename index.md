@@ -14,3 +14,4 @@ Here's how it looks:
 
 [Fork ciekawego kodu](https://github.com/BartoszSambor/vedadet) dotyczącego rozpoznawania technologii twarzy w pythonie
 
+ggggggggggggggggggggggggggggggggggggggg
