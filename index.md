@@ -1,5 +1,5 @@
 ### Hi there 👋
-Jestem studentem AGH pierwszego roku na wydziale Elektrotechjghjghjghhniki, Automatyki, Informatyki i Inżynierii Biomedycznej
+Jestem studentem AGH pierwszego roku na wydziale Elektrotechniki, Automatyki, Informatyki i Inżynierii Biomedycznej
 
 ### Currently working on:
 [Project-Maze](https://github.com/AGH-Narzedzia-Informatyczne/Project-Maze)
