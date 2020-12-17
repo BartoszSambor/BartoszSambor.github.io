@@ -13,3 +13,5 @@ Here's how it looks:
 [Strona Internetowa](https://bartoszsambor.github.io/)
 
 [Fork ciekawego kodu](https://github.com/BartoszSambor/vedadet) dotyczącego rozpoznawania technologii twarzy w pythonie
+
+[Sprawdź również](https://r4falek.github.io/R4falek/)
